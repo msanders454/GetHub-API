@@ -1,1 +1,1 @@
-# GetHub-API
+# GitHub-API
